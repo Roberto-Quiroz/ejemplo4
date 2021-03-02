@@ -17,11 +17,13 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     clase1.cpp \
+    clase2.cpp \
     main.cpp \
     dialog.cpp
 
 HEADERS += \
     clase1.h \
+    clase2.h \
     dialog.h
 
 FORMS += \
