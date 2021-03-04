@@ -20,6 +20,7 @@ SOURCES += \
     clase2.cpp \
     clase3.cpp \
     clase4.cpp \
+    clase5.cpp \
     ejemplo5.cpp \
     main.cpp \
     dialog.cpp
@@ -29,6 +30,7 @@ HEADERS += \
     clase2.h \
     clase3.h \
     clase4.h \
+    clase5.h \
     dialog.h \
     ejemplo5.h
 
